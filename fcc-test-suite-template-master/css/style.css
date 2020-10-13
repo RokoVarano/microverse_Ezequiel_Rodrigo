@@ -2,6 +2,10 @@
     position: sticky;
 }
 
+.videoDiv {
+    display: flex;
+}
+
 .topnav a {
   float: left;
   display: block;
